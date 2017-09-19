@@ -1,0 +1,425 @@
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 experienced good fortune (event number 9) and gained: 75 dollars, 25 supply, 3 security guards, and 3 crew members.
+Player 1 rolled a 5.
+Player 1 moved to the position (0,5).
+Player 1 moved to the position (1,5).
+Player 1 experienced good fortune (event number 10) and gained 5 security guards.
+Player 1 rolled a 6.
+Player 1 moved to the position (6,5).
+Player 1 moved to the position (7,5).
+Player 1 attempted to move to the position (8,5), but could not.
+Player 1 rolled a 2.
+Player 1 moved to the position (8,6).
+Player 1 moved to the position (10,6).
+Player 1 attempted to move to the position (10,7), but could not.
+Player 1 rolled a 3.
+Player 1 moved to the position (12,6).
+Player 1 rolled a 5.
+Player 1 refilled supplies.
+Player 1 rolled a 2.
+Player 1 moved to the position (13,5).
+Player 1 moved to the position (15,5).
+Player 1 rolled a 5.
+Player 1 moved to the position (20,5).
+Player 1 rolled a 4.
+Player 1 moved to the position (22,3).
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a security guard.
+Player 1 experienced good fortune (event number 9) and gained: 75 dollars, 25 supply, 3 security guards, and 3 crew members.
+Player 1 bought a supply.
+Player 1 rolled a 1.
+Player 1 attempted to move to the position (11,20), but could not.
+Player 1 attempted to move to the position (2,11), but could not.
+Player 1 moved to the position (1,9).
+Player 1 rolled a 5.
+Player 1 rolled a 5.
+Player 1 moved to the position (3,12).
+Player 1 attempted to move to the position (5,16), but could not.
+Player 1 moved to the position (4,16).
+Player 1 attempted to move to the position (7,20), but could not.
+Player 1 attempted to move to the position (32,19), but could not.
+Player 1 attempted to move to the position (7,19), but could not.
+Player 1 moved to the position (5,19).
+Player 1 moved to the position (7,16).
+Player 1 moved to the position (9,12).
+Player 1 moved to the position (12,9).
+Player 1 attempted to move to the position (15,6), but could not.
+Player 1 attempted to move to the position (16,6), but could not.
+Player 1 attempted to move to the position (15,4), but could not.
+Player 1 attempted to move to the position (15,6), but could not.
+Player 1 moved to the position (8,5).
+Player 1 moved to the position (5,2).
+Player 1 moved to the position (8,0).
+Player 1 attempted to move to the position (12,3), but could not.
+Player 1 attempted to move to the position (11,3), but could not.
+Player 1 moved to the position (10,3).
+Player 1 moved to the position (12,0).
+Player 1 moved to the position (14,3).
+Player 1 moved to the position (16,6).
+Player 1 moved to the position (18,7).
+Player 1 moved to the position (20,3).
+Player 1 moved to the position (22,6).
+Player 1 moved to the position (24,1).
+Player 1 attempted to move to the position (26,7), but could not.
+Player 1 moved to the position (26,2).
+Player 1 moved to the position (28,0).
+Player 1 moved to the position (30,3).
+Player 1 attempted to move to the position (32,8), but could not.
+Player 1 moved to the position (32,5).
+Player 1 attempted to move to the position (34,9), but could not.
+Player 1 moved to the position (31,8).
+Player 1 moved to the position (33,10).
+Player 1 moved to the position (35,7).
+Player 1 moved to the position (36,5).
+Player 1 attempted to move to the position (38,10), but could not.
+Player 1 moved to the position (37,8).
+Player 1 moved to the position (38,10).
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 rolled a 5.
+Player 1 moved to the position (2,7).
+Player 1 moved to the position (2,5).
+Player 1 moved to the position (2,4).
+Player 1 moved to the position (2,3).
+Player 1 moved to the position (2,2).
+Player 1 moved to the position (2,1).
+Player 1 moved to the position (2,0).
+Player 1 attempted to move to the position (3,0), but could not.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 rolled a 6.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 rolled a 5.
+Player 2 moved to the position (3,7).
+Player 2 attempted to move to the position (7,1), but could not.
+Player 2 attempted to move to the position (20,11), but could not.
+Player 2 attempted to move to the position (19,18), but could not.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 rolled a 2.
+Player 2 moved to the position (0,6).
+Player 2 moved to the position (0,5).
+Player 2 moved to the position (0,4).
+Player 2 moved to the position (0,3).
+Player 2 moved to the position (0,2).
+Player 2 moved to the position (0,1).
+Player 2 moved to the position (0,0).
+Player 2 attempted to move to the position (2,0), but could not.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 2 rolled a 3.
+Player 2 attempted to move to the position (3,9), but could not.
+Player 2 moved to the position (3,0).
+Player 2 attempted to move to the position (18,0), but could not.
+Player 2 attempted to move to the position (11,0), but could not.
+Player 2 attempted to move to the position (7,0), but could not.
+Player 2 attempted to move to the position (3,4), but could not.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a supply.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a crew member.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 bought a security guard.
+Player 1 rolled a 4.
+Player 1 moved to the position (3,8).
+Player 1 rolled a 4.
+Player 1 moved to the position (0,9).
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a supply.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a crew member.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 bought a security guard.
+Player 2 rolled a 5.
+Player 2 attempted to move to the position (1,7), but could not.
+Player 2 attempted to move to the position (2,8), but could not.
+Player 2 moved to the position (1,13).
